@@ -1,0 +1,9 @@
+{
+	"id": "5HYHcvKjpM7Q3Cz",
+	"json": "{\"id\":\"5HYHcvKjpM7Q3Cz\",\"url\":\"https://www.novelupdates.com/novelslisting/?sort=2&order=1&status=1&pg=83\",\"loadedUrl\":\"https://www.novelupdates.com/novelslisting/?sort=2&order=1&status=1&pg=83\",\"uniqueKey\":\"https://www.novelupdates.com/novelslisting?order=1&pg=83&sort=2&status=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"list\"},\"handledAt\":\"2022-10-06T15:32:53.555Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.novelupdates.com/novelslisting?order=1&pg=83&sort=2&status=1",
+	"url": "https://www.novelupdates.com/novelslisting/?sort=2&order=1&status=1&pg=83"
+}

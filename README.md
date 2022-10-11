@@ -16,3 +16,12 @@ Following are the highlights of my work in the project:
 4) Collaborative Filtering Recommendation System - Implemented a collaborative filtering of the novels using the user reviews data through concepts of Cosine Similarity to get a set of similarly matched users, their novel reviews and sorting them according the the relevant properties.
 
 NOTE: Check out the different branches of the project for the different components
+
+
+## Instructions For Running The File ##
+
+1) Download the **Main Zip File** and extract its contents.
+2) Follow the Kaggle Link and download the two datasets **noveldata.json** and **userinteraction.json** and copy them to the extracted folder.
+3) Install Jupyter and run the **GeriatricRecommendation**.ipynb file and you're done.
+
+Have a great day!

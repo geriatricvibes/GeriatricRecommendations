@@ -15,3 +15,4 @@ Following are the highlights of my work in the project:
 
 4) Collaborative Filtering Recommendation System - Implemented a collaborative filtering of the novels using the user reviews data through concepts of Cosine Similarity to get a set of similarly matched users, their novel reviews and sorting them according the the relevant properties.
 
+NOTE: Check out the different branches of the project for the different components

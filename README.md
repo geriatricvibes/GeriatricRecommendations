@@ -9,7 +9,7 @@ NOTE: Check out the different branches of the project for the individual compone
 
 Following are the highlights of my work in the project:
 
-1) Book Recommendation System - Developed a book recommendation system for recommending translated chinese, japanese and korean webnovels involving aspects such as scraping, cleaning and preparing datasets, a search engine and collaborative filtering for recommendations.
+1) Book Recommendation System - Developed a book recommendation system for recommending translated Chinese, Japanese and Korean webnovels involving aspects such as scraping, cleaning and preparing datasets, a search engine and collaborative filtering for recommendations.
 
 2) Web Crawler For Scraping Data: Scraped the data of 13000+ novels and approximately 200000+ user reviews from www.novelupdates.com, a popular webnovel website,  for dataset preparation using scrapers written in TypeScript with Cheerio and Crawlee Library based on Node.js.
 

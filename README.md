@@ -1,7 +1,6 @@
 # GeriatricRecommendations
 
 A Collaborative Filtering Based Recommendation System For Translated Chinese, Japanese and Korean Webnovels, Personal Project   
-Duration - [Sept 2022 - Present]
 
 Kaggle (Scraped Datasets) - https://www.kaggle.com/datasets/geriatricvibes/novelupdatesdataset
 
